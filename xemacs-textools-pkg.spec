@@ -2,7 +2,7 @@ Summary:	Miscellaneous TeX support
 Summary(pl):	Miscellaneous TeX support
 Name:		xemacs-textools-pkg
 %define 	srcname	textools
-Version:	1.10
+Version:	1.11
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
