@@ -2,12 +2,12 @@ Summary:	Miscellaneous TeX support
 Summary(pl):	Rozmaite wsparcie dla TeXa
 Name:		xemacs-textools-pkg
 %define 	srcname	textools
-Version:	1.13
-Release:	2
+Version:	1.15
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	2c726df993113f7503cdfe560aef27ca
+# Source0-md5:	43d33c2e35569a434e7787e7ded2eade
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
