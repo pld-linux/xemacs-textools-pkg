@@ -1,11 +1,12 @@
 Summary:	Miscellaneous TeX support
-Summary(pl):	Miscellaneous TeX support
+Summary(pl):	Rozmaite wsparcie dla TeXa
 Name:		xemacs-textools-pkg
 %define 	srcname	textools
 Version:	1.12
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
+Group(de):	Applikationen/Editors/Emacs
 Group(pl):	Aplikacje/Edytory/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 URL:		http://www.xemacs.org/
@@ -16,8 +17,10 @@ Requires:	xemacs-base-pkg
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
+Miscellaneous TeX support.
 
 %description -l pl 
+Rozmaite wsparcie dla TeXa.
 
 %prep
 %setup -q -c
