@@ -2,7 +2,7 @@ Summary:	Miscellaneous TeX support
 Summary(pl):	Rozmaite wsparcie dla TeXa
 Name:		xemacs-textools-pkg
 %define 	srcname	textools
-Version:	1.12
+Version:	1.13
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
