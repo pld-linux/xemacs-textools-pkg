@@ -1,5 +1,5 @@
 Summary:	Miscellaneous TeX support
-Summary(pl):	Rozmaite wsparcie dla TeXa
+Summary(pl.UTF-8):   Rozmaite wsparcie dla TeXa
 Name:		xemacs-textools-pkg
 %define 	srcname	textools
 Version:	1.15
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Miscellaneous TeX support.
 
-%description -l pl
+%description -l pl.UTF-8
 Rozmaite wsparcie dla TeXa.
 
 %prep
